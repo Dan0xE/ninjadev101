@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<img src="https://camo.githubusercontent.com/a5a34ff469eefe034da3b92fc82c33df1a5c1f7152d0f3bed0be8d5324b3e4fe/68747470733a2f2f6170692e6461696c792e6465762f64657663617264732f63363436363334373735613834336132393434656335343337613265303037652e706e673f723d327572" width="400" alt="Lee's Dev Card" data-canonical-src="https://api.daily.dev/devcards/c646634775a843a2944ec5437a2e007e.png?r=2ur" style="max-width: 100%;">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
