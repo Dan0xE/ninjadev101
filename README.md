@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ninja</h1>
+<a href="https://app.daily.dev/lee927"><img src="https://api.daily.dev/devcards/c646634775a843a2944ec5437a2e007e.png?r=2ur" width="400" alt="Lee's Dev Card"/></a>
 <h3 align="center">Senior Rockstar Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjadev101&label=Profile%20views&color=0e75b6&style=flat" alt="ninjadev101" /> </p>
